@@ -161,7 +161,7 @@ endmodule
 
 **Output Timing Waveform**
 
-![WhatsApp Image 2024-05-20 at 5 15 19 PM](https://github.com/Soundaryajothi/Project-Based-Experiment/assets/144870490/935d612e-4dd6-4909-b289-049ecb11d510)
+![WhatsApp Image 2024-05-20 at 5 15 41 PM](https://github.com/Soundaryajothi/Project-Based-Experiment/assets/144870490/986ead36-364f-44db-a940-37eb69fc0a60)
 
 
 **Result:**
